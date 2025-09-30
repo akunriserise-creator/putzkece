@@ -1,0 +1,3 @@
+[
+  "isi token bot lu",
+]
